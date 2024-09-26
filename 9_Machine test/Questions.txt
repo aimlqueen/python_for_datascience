@@ -1,0 +1,12 @@
+Reverse a list using for loop
+
+*
+**
+***
+****
+***
+**
+*
+
+
+Take a string as a input and count the vowels
